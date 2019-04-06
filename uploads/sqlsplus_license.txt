@@ -1,0 +1,108 @@
+
+SOFTWARE END USER LICENSE AGREEMENT
+
+IMPORTANT-PLEASE READ CAREFULLY
+
+BY INSTALLING THE SOFTWARE (AS DEFINED BELOW), DOWNLOADING THE SOFTWARE, COPYING THE SOFTWARE AND/OR CLICKING THE "ACCEPT" CHECKBOX BELOW, YOU ("USER") EITHER ON BEHALF OF YOURSELF AS AN INDIVIDUAL OR ON BEHALF OF AN ENTITY AS ITS AUTHORIZED REPRESENTATIVE, AGREE TO ALL OF THE TERMS OF THIS END USER LICENSE AGREEMENT REGARDING YOUR USE OF SQLS*PLUS ("THE SOFTWARE"). YOUR USE OF THE SOFTWARE INDICATES YOUR ACCEPTANCE OF THIS LICENSE AGREEMENT AND WARRANTY. IF YOU DO NOT AGREE WITH ALL OF THE TERMS OF THIS AGREEMENT, CLICK ON THE "CANCEL" BUTTON AND/OR DO NOT INSTALL, DOWNLOAD, COPY OR OTHERWISE USE THE SOFTWARE.
+
+TITLE
+
+You acknowledge that no title to the intellectual property in THE SOFTWARE is transferred to you. Title, ownership, rights, and intellectual property rights in and to THE SOFTWARE shall remain in OWNER.
+
+GRANT OF LICENSE
+
+Subject to the terms below, OWNER hereby grants USER a non-transferable license to install and to use this version of THE SOFTWARE. Your license will be free for a use on a single database instance for a 1 year period within which time the USER shall determine the fitness and usability of THE SOFTWARE for the USER's particular purpose and hardware environment. It is understood by the USER that after the 1 year period THE SOFTWARE will disable itself, rendering access to the USER's program input during the period difficult or impossible unless and until the USER requests OWNER for a license renewal under here-described terms and obtains a valid registration number for the USER's Company or Individual Name. It is also fully agreed and understood that any and all license and licenses granted unto the USER by the OWNER are granted on the basis of the Company of Individual Name as provided by the USER in the registration process and that the granted license(s) may not be sold, loaned, borrowed and/or transferred in any way to anyone other than the licensee. Furthermore, in the event that the USER should change his/her Company Name or Individual Name, then a new registration and possible payment of registration fee by the USER shall be required. 
+
+SCOPE OF GRANT
+
+USER may not modify THE SOFTWARE or disable any licensing or control features of THE SOFTWARE. If THE SOFTWARE is licensed for "network" and/or "concurrent use," you may not allow more than the maximum number of authorized users to use THE SOFTWARE concurrently.
+ 
+OWNERSHIP
+
+It is expressly agreed and understood that THE SOFTWARE is owned and copyrighted by SELFPROPELLED TECH, LLC ("OWNER"). and that OWNER shall retain title and all ownership rights to THE SOFTWARE. Whether the USER is licensing THE SOFTWARE as an individual or on behalf of an entity, the USER may not:
+
+(1) reverse engineer, decompile, or disassemble THE SOFTWARE
+
+(2) modify, or create derivative works based upon, THE SOFTWARE in whole or in part
+
+(3) remove any proprietary notices or labels on THE SOFTWARE; or 
+
+(4) resell, lease, rent, transfer, sub-license, or otherwise transfer rights to THE SOFTWARE.
+
+COPYRIGHT
+
+It is understood and agreed to that THE SOFTWARE including any accompanying help and support files, along with any printed documentation is copyrighted by the OWNER and may not be reproduce and/or redistributed without the advanced written consent of the OWNER except where expressly allowed below. THE SOFTWARE is protected by United States copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+
+DISTRIBUTION
+
+The USER is hereby licensed to make as many copies of the THE SOFTWARE and related documentation as the USER wishes; give exact copies of the original software version to anyone; and distribute the version of THE SOFTWARE and documentation in its unmodified form via magnetic media or optical media or digital electronic means provided that:
+
+(1) THE SOFTWARE is not modified
+
+(2) the original archive remains intact with all accompanying files
+
+(3) no fee is charged, except for any reasonable fees necessary to cover costs of media, and nominal copying and/or distribution costs.
+
+MAINTENANCE
+
+The OWNER is not obligated to provide maintenance and/or updates and/or fixes for THE SOFTWARE, however, any such maintenance and/or updates and/or fixes provided by the OWNER shall be covered by this End User License Agreement.
+
+UPGRADES
+
+If THE SOFTWARE is labeled or otherwise identified by the OWNER as an "upgrade", the USER must be properly licensed to use a product identified by the OWNER as being eligible for the upgrade in order to use THE SOFTWARE. Software labeled or otherwise identified by the OWNER as an upgrade; replaces and/or supplements the product that formed the basis for your eligibility for such upgrade. You may use the resulting upgraded product only in accordance with the terms of this End User License Agreement. If THE SOFTWARE is an upgrade of a component of a package of software programs that you licensed as a single product, THE SOFTWARE may be used and transferred only as part of that single product package and may not be separated for use on more that one computer.
+
+REFERENCE
+
+BY INSTALLING THE SOFTWARE, DOWNLOADING THE SOFTWARE, COPYING THE SOFTWARE AND USING THE SOFTWARE, USER EITHER ON BEHALF OF YOURSELF AS AN INDIVIDUAL OR ON BEHALF OF AN ENTITY AS ITS AUTHORIZED REPRESENTATIVE, AGREES TO BECOME MARKETING AND SALES REFERENCE TO THE OWNER AND ALLOW OWNER TO USE USER'S AND USER'S ENTITY LOGO AND NAME ON OWNER'S WEBSITE AND IN MARKETING MATERIAL AS IT IS RELATED TO USE OF THE SOFTWARE BY USER AS AN INDIVIDUAL OR ON BEHALF OF AN ENTITY AS ITS AUTHORIZED REPRESENTATIVE
+
+CUSTOMER REMEDIES
+
+The OWNER and its suppliers' entire liability and the OWNER's exclusive remedy shall be, at the OWNER's option, either:
+
+(1) return of the price paid by you for THE SOFTWARE (not to exceed the suggested retail price) if any, or
+
+(2) repair or replacement of the component(s) of THE SOFTWARE that do(es) not meet the OWNER's Limited Warranty and which is returned to the OWNER with a copy of your purchase receipt. This Limited Warranty is void if failure of THE SOFTWARE has resulted from accident, abuse, or misapplication. Any replacement SOFTWARE will be warranted for the remainder of the original warranty period or thirty (30) days, whichever is longer.
+
+DISCLAIMER OF WARRANTY
+
+THE SOFTWARE AND THE ACCOMPANYING FILES ARE PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE OWNER FURTHER DISCLAIMS ALL WARRANTIES, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANT ABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. THE ENTIRE RISK ARISING OUT OF THE USE AND/OR PERFORMANCE OF THE PRODUCT AND/OR DOCUMENTATION REMAINS WITH THE USER TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, AND IN NO EVENT SHALL THE OWNER BE LIABLE FOR ANY CONSEQUENTIAL, INCIDENTAL, DIRECT, INDIRECT, SPECILA, PUNITIVE, OR OTHER DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR OTHER PECUNIARY LOSS) ARISING OUT OF THIS AGREEMENT OR THE USE OF OR INABILITY TO USE THE PRODUCT, EVEN IF THE OWNER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. ANY LIABILITY OF THE OWNER SHALL BE EXCLUSIVELY LIMITED TO THE PRODUCT RELACEMENT OR RETURN OF THE PURCHASE/LICENSING PRICE. NO OTHER ADVERTISING, DESCRIPTION OR REPRESENTATION, WHEHER OR NOT MADE BY THE OWNER OR THE OWNER'S DEALER, DISTRIBUTOR, AGENT OR EMPLOYEE, SHALL BE BINDING UPON THE OWNER OR SHALL CHANGE THE TERMS OF THIS WARRANTY. THIS LIMITED WARRANTY GIVES YOU THE SPECIFIC LEGAL RIGHTS. YOU MAY HAVE OTHERS, WHICH VARY FROM STATE/JURISDICTION TO STATE/JURISDICTION.
+
+TERMINATION
+
+This End User License Agreement shall terminate automatically if you fail to comply with the limitations described in this End User License Agreement, or if you are licensing THE SOFTWARE on behalf of an entity and do not elect to continue the license following the above mentioned use period. No notice shall be required from the OWNER to effectuate such termination. Upon termination, you must uninstall and destroy all copies of THE SOFTWARE.
+
+GOVERNING LAW
+
+If you acquire or use THE SOFTWARE in the United States, this End User License Agreement is governed by and construed in accordance with the laws of the State of California any arbitration hereunder shall apply. If THE SOFTWARE was acquired and is used exclusively outside of the United States, then local law may also apply. Should any provision of this agreement be found, held or deemed to be unenforceable, voidable, or void as contrary to law or public policy under the State of California, the parties intend and agree that the remaining provisions shall nevertheless continue in full force and be binding upon the parties, their heirs, personal representatives, and assigns. Furthermore, it is agreed and understood that Santa Clara County, California shall be the proper venue for any and all litigation and arbitration. Should you have any questions concerning this End User License Agreement, or if you desire to contact the OWNER for any reason, please email to support@dbainfopower.com
+
+ARBITRATION
+
+The USER acknowledges and agrees that any dispute, controversy or claim arising out of or relating to this Agreement or to a breach hereof, including its interpretation, performance or termination, shall be finally resolved by arbitration. The arbitration shall be conducted by three (3) arbitrators, one to be appointed by the OWNER, one to be appointed by the USER, and the third being nominated by the two arbitrators so selected or, if they cannot agree on a third arbitrator, by the President of the American Arbitration Association ("AAA"). The arbitration shall be conducted in English and in accordance with the commercial arbitration rules of the AAA. The arbitration, including the rendering of the award, shall take place in Santa Clara, Santa Clara County, California, and shall be the exclusive forum for resolving such dispute, controversy or claim. The decision of the arbitrators shall be binding upon the parties hereto, and the expense of the arbitration (including, without limitation, the award of attorneys' fees to the prevailing party) shall be paid as the arbitrators determine. The decision of the arbitrators shall be executory, and judgment thereon may be entered by any court of competent jurisdiction. Notwithstanding anything contained in this Paragraph to the contrary, the OWNER shall have the right to institute judicial proceedings against the USER or anyone acting by, through, or under the USER, in order to enforce the OWNER's rights hereunder through, including but not limited to, reformation of contract, specific performance, injunction, or similar equitable relief. 
+
+ENTIRE AGREEMENT
+
+This End User License Agreement constitutes the entire understanding between the OWNER and the USER. The USER agrees that this is the entire agreement between the USER and the OWNER, and supersedes any prior agreement, whether written or oral, and all other communications between the OWNER and the USER relating to the subject matter of this End User License Agreement and cannot be altered or modified, except in writing.
+
+RESERVATION OF RIGHTS
+
+All rights not expressly granted in this End User License Agreement are reserved entirely to the OWNER.
+
+HEADINGS AND CAPTIONS
+
+The captions of this agreement are for convenience and reference only, and in no way define or limit the intent, rights, or obligations of the parties hereunder. Additionally, any heading preceding the text of any of the paragraphs in this agreement are inserted solely for convenience of reference and shall not constitute a part of the agreement, nor shall they affect the meaning, construction or effect of any of the paragraphs of the agreement.
+
+DEFAULT
+
+In the event of a default on payment by USER as outlined in this Agreement, the parties agree that the fee shall be subject to an interest charge of one and one-half percent (1 1/2 %) per month. Furthermore, the USER, upon default shall be held responsible for any and all legal fees incurred by the OWNER.
+
+BINDING EFFECT
+
+This agreement and all the terms and conditions thereof shall be binding upon the parties hereto and their respective heirs, personal representatives and assigns.
+
+INTERPRETATION
+
+No provision of this agreement shall be interpreted for or against any party hereto by reason of the fact that said party or his/ her counsel or legal representative drafted all or any part thereof.
+
+ATTORNEY'S FEES
+
+The USER shall be responsible and pay for any and all attorney's fees incurred by the OWNER in connection with the enforcement of any of the provisions of this agreement.
